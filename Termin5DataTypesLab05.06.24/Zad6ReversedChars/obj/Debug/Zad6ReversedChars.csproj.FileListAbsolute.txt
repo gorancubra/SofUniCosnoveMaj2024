@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad6ReversedChars\bin\Debug\Zad6ReversedChars.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad6ReversedChars\bin\Debug\Zad6ReversedChars.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad6ReversedChars\bin\Debug\Zad6ReversedChars.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad6ReversedChars\obj\Debug\Zad6ReversedChars.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad6ReversedChars\obj\Debug\Zad6ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad6ReversedChars\obj\Debug\Zad6ReversedChars.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad6ReversedChars\obj\Debug\Zad6ReversedChars.pdb

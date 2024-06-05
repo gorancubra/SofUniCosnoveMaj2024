@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad3ExactSumOfRealNumbers\bin\Debug\Zad3ExactSumOfRealNumbers.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad3ExactSumOfRealNumbers\bin\Debug\Zad3ExactSumOfRealNumbers.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad3ExactSumOfRealNumbers\bin\Debug\Zad3ExactSumOfRealNumbers.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad3ExactSumOfRealNumbers\obj\Debug\Zad3ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad3ExactSumOfRealNumbers\obj\Debug\Zad3ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad3ExactSumOfRealNumbers\obj\Debug\Zad3ExactSumOfRealNumbers.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad3ExactSumOfRealNumbers\obj\Debug\Zad3ExactSumOfRealNumbers.pdb

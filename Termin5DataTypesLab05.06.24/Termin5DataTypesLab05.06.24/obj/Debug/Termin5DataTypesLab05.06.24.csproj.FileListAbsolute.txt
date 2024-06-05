@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Termin5DataTypesLab05.06.24\bin\Debug\Termin5DataTypesLab05.06.24.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Termin5DataTypesLab05.06.24\bin\Debug\Termin5DataTypesLab05.06.24.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Termin5DataTypesLab05.06.24\bin\Debug\Termin5DataTypesLab05.06.24.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Termin5DataTypesLab05.06.24\obj\Debug\Termin5DataTypesLab05.06.24.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Termin5DataTypesLab05.06.24\obj\Debug\Termin5DataTypesLab05.06.24.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Termin5DataTypesLab05.06.24\obj\Debug\Termin5DataTypesLab05.06.24.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Termin5DataTypesLab05.06.24\obj\Debug\Termin5DataTypesLab05.06.24.pdb

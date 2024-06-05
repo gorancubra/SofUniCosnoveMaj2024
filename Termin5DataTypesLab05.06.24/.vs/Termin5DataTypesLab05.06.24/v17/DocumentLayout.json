@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16FFD2EC-5AE4-48A0-9300-F889F3F81C2B}|Termin5DataTypesLab05.06.24\\Termin5DataTypesLab05.06.24.csproj|c:\\users\\goran\\source\\repos\\softuniosnovecmaj2024\\termin5datatypeslab05.06.24\\termin5datatypeslab05.06.24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FFD2EC-5AE4-48A0-9300-F889F3F81C2B}|Termin5DataTypesLab05.06.24\\Termin5DataTypesLab05.06.24.csproj|solutionrelative:termin5datatypeslab05.06.24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB92400-1FE9-4EDB-A3A9-ADFC9C95A901}|Zad2PoundsToDollars\\Zad2PoundsToDollars.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\zad2poundstodollars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB92400-1FE9-4EDB-A3A9-ADFC9C95A901}|Zad2PoundsToDollars\\Zad2PoundsToDollars.csproj|solutionrelative:zad2poundstodollars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A70B1D0-4FCC-4BDB-9E1E-85C13CE51A2B}|Zad6ReversedChars\\Zad6ReversedChars.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\zad6reversedchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A70B1D0-4FCC-4BDB-9E1E-85C13CE51A2B}|Zad6ReversedChars\\Zad6ReversedChars.csproj|solutionrelative:zad6reversedchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06669C42-7268-4214-8D34-FC19DD4BD07F}|Zad3ExactSumOfRealNumbers\\Zad3ExactSumOfRealNumbers.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\zad3exactsumofrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06669C42-7268-4214-8D34-FC19DD4BD07F}|Zad3ExactSumOfRealNumbers\\Zad3ExactSumOfRealNumbers.csproj|solutionrelative:zad3exactsumofrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BCC622-A322-4953-8BBC-D40950671A09}|Zad4CenturiesToMinutes\\Zad4CenturiesToMinutes.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\zad4centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BCC622-A322-4953-8BBC-D40950671A09}|Zad4CenturiesToMinutes\\Zad4CenturiesToMinutes.csproj|solutionrelative:zad4centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F279F0A-68C1-4813-BE75-BA3B908158D2}|Zad5SpecijalNumbers\\Zad5SpecijalNumbers.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\zad5specijalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F279F0A-68C1-4813-BE75-BA3B908158D2}|Zad5SpecijalNumbers\\Zad5SpecijalNumbers.csproj|solutionrelative:zad5specijalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01418E5E-5957-4E95-A8C6-7413EBC38FB8}|Zad1ConvertMetersToKilometers\\Zad1ConvertMetersToKilometers.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\zad1convertmeterstokilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01418E5E-5957-4E95-A8C6-7413EBC38FB8}|Zad1ConvertMetersToKilometers\\Zad1ConvertMetersToKilometers.csproj|solutionrelative:zad1convertmeterstokilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad6ReversedChars\\Program.cs",
+              "RelativeDocumentMoniker": "Zad6ReversedChars\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad6ReversedChars\\Program.cs",
+              "RelativeToolTip": "Zad6ReversedChars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:53:45.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad5SpecijalNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Zad5SpecijalNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad5SpecijalNumbers\\Program.cs",
+              "RelativeToolTip": "Zad5SpecijalNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:01:40.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad4CenturiesToMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "Zad4CenturiesToMinutes\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad4CenturiesToMinutes\\Program.cs",
+              "RelativeToolTip": "Zad4CenturiesToMinutes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:32:09.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad3ExactSumOfRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Zad3ExactSumOfRealNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad3ExactSumOfRealNumbers\\Program.cs",
+              "RelativeToolTip": "Zad3ExactSumOfRealNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:27:50.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad2PoundsToDollars\\Program.cs",
+              "RelativeDocumentMoniker": "Zad2PoundsToDollars\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad2PoundsToDollars\\Program.cs",
+              "RelativeToolTip": "Zad2PoundsToDollars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:22:39.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad1ConvertMetersToKilometers\\Program.cs",
+              "RelativeDocumentMoniker": "Zad1ConvertMetersToKilometers\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Zad1ConvertMetersToKilometers\\Program.cs",
+              "RelativeToolTip": "Zad1ConvertMetersToKilometers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:19:38.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Termin5DataTypesLab05.06.24\\Program.cs",
+              "RelativeDocumentMoniker": "Termin5DataTypesLab05.06.24\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin5DataTypesLab05.06.24\\Termin5DataTypesLab05.06.24\\Program.cs",
+              "RelativeToolTip": "Termin5DataTypesLab05.06.24\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:19:02.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

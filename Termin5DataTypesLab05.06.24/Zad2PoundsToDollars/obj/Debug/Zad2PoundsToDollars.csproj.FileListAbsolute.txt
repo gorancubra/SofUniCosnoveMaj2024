@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad2PoundsToDollars\bin\Debug\Zad2PoundsToDollars.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad2PoundsToDollars\bin\Debug\Zad2PoundsToDollars.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad2PoundsToDollars\bin\Debug\Zad2PoundsToDollars.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad2PoundsToDollars\obj\Debug\Zad2PoundsToDollars.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad2PoundsToDollars\obj\Debug\Zad2PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad2PoundsToDollars\obj\Debug\Zad2PoundsToDollars.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad2PoundsToDollars\obj\Debug\Zad2PoundsToDollars.pdb

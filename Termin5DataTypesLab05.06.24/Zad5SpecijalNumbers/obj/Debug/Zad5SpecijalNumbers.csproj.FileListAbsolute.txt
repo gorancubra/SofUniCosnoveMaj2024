@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad5SpecijalNumbers\bin\Debug\Zad5SpecijalNumbers.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad5SpecijalNumbers\bin\Debug\Zad5SpecijalNumbers.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad5SpecijalNumbers\bin\Debug\Zad5SpecijalNumbers.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad5SpecijalNumbers\obj\Debug\Zad5SpecijalNumbers.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad5SpecijalNumbers\obj\Debug\Zad5SpecijalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad5SpecijalNumbers\obj\Debug\Zad5SpecijalNumbers.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad5SpecijalNumbers\obj\Debug\Zad5SpecijalNumbers.pdb

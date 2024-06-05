@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad4CenturiesToMinutes\bin\Debug\Zad4CenturiesToMinutes.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad4CenturiesToMinutes\bin\Debug\Zad4CenturiesToMinutes.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad4CenturiesToMinutes\bin\Debug\Zad4CenturiesToMinutes.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad4CenturiesToMinutes\obj\Debug\Zad4CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad4CenturiesToMinutes\obj\Debug\Zad4CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad4CenturiesToMinutes\obj\Debug\Zad4CenturiesToMinutes.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin5DataTypesLab05.06.24\Zad4CenturiesToMinutes\obj\Debug\Zad4CenturiesToMinutes.pdb

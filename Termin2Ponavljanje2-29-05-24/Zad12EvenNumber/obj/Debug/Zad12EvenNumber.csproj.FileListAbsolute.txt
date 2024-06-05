@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad12EvenNumber\bin\Debug\Zad12EvenNumber.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad12EvenNumber\bin\Debug\Zad12EvenNumber.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad12EvenNumber\bin\Debug\Zad12EvenNumber.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad12EvenNumber\obj\Debug\Zad12EvenNumber.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad12EvenNumber\obj\Debug\Zad12EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad12EvenNumber\obj\Debug\Zad12EvenNumber.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad12EvenNumber\obj\Debug\Zad12EvenNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad10RageExpences\bin\Debug\Zad10RageExpences.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad10RageExpences\bin\Debug\Zad10RageExpences.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad10RageExpences\bin\Debug\Zad10RageExpences.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad10RageExpences\obj\Debug\Zad10RageExpences.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad10RageExpences\obj\Debug\Zad10RageExpences.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad10RageExpences\obj\Debug\Zad10RageExpences.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad10RageExpences\obj\Debug\Zad10RageExpences.pdb

@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad4BackIn30Min\bin\Debug\Zad4BackIn30Min.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad4BackIn30Min\bin\Debug\Zad4BackIn30Min.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad4BackIn30Min\bin\Debug\Zad4BackIn30Min.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad4BackIn30Min\obj\Debug\Zad4BackIn30Min.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad4BackIn30Min\obj\Debug\Zad4BackIn30Min.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad4BackIn30Min\obj\Debug\Zad4BackIn30Min.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad4BackIn30Min\obj\Debug\Zad4BackIn30Min.pdb

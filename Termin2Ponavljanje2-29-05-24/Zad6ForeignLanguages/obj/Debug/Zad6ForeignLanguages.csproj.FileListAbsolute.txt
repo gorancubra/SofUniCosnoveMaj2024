@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad6ForeignLanguages\bin\Debug\Zad6ForeignLanguages.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad6ForeignLanguages\bin\Debug\Zad6ForeignLanguages.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad6ForeignLanguages\bin\Debug\Zad6ForeignLanguages.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad6ForeignLanguages\obj\Debug\Zad6ForeignLanguages.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad6ForeignLanguages\obj\Debug\Zad6ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad6ForeignLanguages\obj\Debug\Zad6ForeignLanguages.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad6ForeignLanguages\obj\Debug\Zad6ForeignLanguages.pdb

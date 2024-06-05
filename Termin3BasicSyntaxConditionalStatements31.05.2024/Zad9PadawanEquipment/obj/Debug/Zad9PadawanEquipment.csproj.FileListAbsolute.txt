@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad9PadawanEquipment\bin\Debug\Zad9PadawanEquipment.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad9PadawanEquipment\bin\Debug\Zad9PadawanEquipment.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad9PadawanEquipment\bin\Debug\Zad9PadawanEquipment.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad9PadawanEquipment\obj\Debug\Zad9PadawanEquipment.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad9PadawanEquipment\obj\Debug\Zad9PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad9PadawanEquipment\obj\Debug\Zad9PadawanEquipment.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad9PadawanEquipment\obj\Debug\Zad9PadawanEquipment.pdb

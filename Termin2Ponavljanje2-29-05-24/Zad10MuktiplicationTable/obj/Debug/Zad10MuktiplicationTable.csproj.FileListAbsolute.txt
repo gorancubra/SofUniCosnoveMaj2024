@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad10MuktiplicationTable\bin\Debug\Zad10MuktiplicationTable.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad10MuktiplicationTable\bin\Debug\Zad10MuktiplicationTable.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad10MuktiplicationTable\bin\Debug\Zad10MuktiplicationTable.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad10MuktiplicationTable\obj\Debug\Zad10MuktiplicationTable.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad10MuktiplicationTable\obj\Debug\Zad10MuktiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad10MuktiplicationTable\obj\Debug\Zad10MuktiplicationTable.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad10MuktiplicationTable\obj\Debug\Zad10MuktiplicationTable.pdb

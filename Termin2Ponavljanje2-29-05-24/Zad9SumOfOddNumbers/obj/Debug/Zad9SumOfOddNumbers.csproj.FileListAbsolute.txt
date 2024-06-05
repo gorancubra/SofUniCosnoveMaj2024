@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad9SumOfOddNumbers\bin\Debug\Zad9SumOfOddNumbers.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad9SumOfOddNumbers\bin\Debug\Zad9SumOfOddNumbers.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad9SumOfOddNumbers\bin\Debug\Zad9SumOfOddNumbers.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad9SumOfOddNumbers\obj\Debug\Zad9SumOfOddNumbers.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad9SumOfOddNumbers\obj\Debug\Zad9SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad9SumOfOddNumbers\obj\Debug\Zad9SumOfOddNumbers.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad9SumOfOddNumbers\obj\Debug\Zad9SumOfOddNumbers.pdb

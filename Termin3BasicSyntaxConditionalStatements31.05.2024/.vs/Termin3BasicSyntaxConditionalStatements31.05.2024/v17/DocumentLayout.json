@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3867FE6C-EBB6-47E4-B346-176D63F8470C}|Zad6v2StrongNumberFaktorijel\\Zad6v2StrongNumberFaktorijel.csproj|c:\\users\\goran\\source\\repos\\softuniosnovecmaj2024\\termin3basicsyntaxconditionalstatements31.05.2024\\zad6v2strongnumberfaktorijel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3867FE6C-EBB6-47E4-B346-176D63F8470C}|Zad6v2StrongNumberFaktorijel\\Zad6v2StrongNumberFaktorijel.csproj|solutionrelative:zad6v2strongnumberfaktorijel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9464D40-4086-4A1A-9127-027E6AD4DDEC}|Zad6StrongNumber\\Zad6StrongNumber.csproj|c:\\users\\goran\\source\\repos\\softuniosnovecmaj2024\\termin3basicsyntaxconditionalstatements31.05.2024\\zad6strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9464D40-4086-4A1A-9127-027E6AD4DDEC}|Zad6StrongNumber\\Zad6StrongNumber.csproj|solutionrelative:zad6strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF83967-18EE-4D84-A527-4755AA05090D}|Zad7VendingMachine\\Zad7VendingMachine.csproj|c:\\users\\goran\\source\\repos\\softuniosnovecmaj2024\\termin3basicsyntaxconditionalstatements31.05.2024\\zad7vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF83967-18EE-4D84-A527-4755AA05090D}|Zad7VendingMachine\\Zad7VendingMachine.csproj|solutionrelative:zad7vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A520E0-19F6-4C83-9D26-5B83490E3E7E}|Zad8TriangleNumbers\\Zad8TriangleNumbers.csproj|c:\\users\\goran\\source\\repos\\softuniosnovecmaj2024\\termin3basicsyntaxconditionalstatements31.05.2024\\zad8trianglenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A520E0-19F6-4C83-9D26-5B83490E3E7E}|Zad8TriangleNumbers\\Zad8TriangleNumbers.csproj|solutionrelative:zad8trianglenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F9FF54-F1C0-4680-9E19-79A44A595281}|Zad11Orders\\Zad11Orders.csproj|c:\\users\\goran\\source\\repos\\softuniosnovecmaj2024\\termin3basicsyntaxconditionalstatements31.05.2024\\zad11orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F9FF54-F1C0-4680-9E19-79A44A595281}|Zad11Orders\\Zad11Orders.csproj|solutionrelative:zad11orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7496E7-EB6A-453F-AA64-8D0FC4B1E786}|Zad10RageExpences\\Zad10RageExpences.csproj|c:\\users\\goran\\source\\repos\\softuniosnovecmaj2024\\termin3basicsyntaxconditionalstatements31.05.2024\\zad10rageexpences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7496E7-EB6A-453F-AA64-8D0FC4B1E786}|Zad10RageExpences\\Zad10RageExpences.csproj|solutionrelative:zad10rageexpences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26DBB18-FC58-4808-BA77-FC935E7CFFFB}|Zad9PadawanEquipment\\Zad9PadawanEquipment.csproj|c:\\users\\goran\\source\\repos\\softuniosnovecmaj2024\\termin3basicsyntaxconditionalstatements31.05.2024\\zad9padawanequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26DBB18-FC58-4808-BA77-FC935E7CFFFB}|Zad9PadawanEquipment\\Zad9PadawanEquipment.csproj|solutionrelative:zad9padawanequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4C4D9D-1E8D-4C01-9EC1-8DA86DD7C674}|Termin3BasicSyntaxConditionalStatements31.05.2024\\Termin3BasicSyntaxConditionalStatements31.05.2024.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\termin3basicsyntaxconditionalstatements31.05.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4C4D9D-1E8D-4C01-9EC1-8DA86DD7C674}|Termin3BasicSyntaxConditionalStatements31.05.2024\\Termin3BasicSyntaxConditionalStatements31.05.2024.csproj|solutionrelative:termin3basicsyntaxconditionalstatements31.05.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924927B6-2ADB-4471-BD12-B0DBA9B5CF41}|Zad1Ages\\Zad1Ages.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\zad1ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924927B6-2ADB-4471-BD12-B0DBA9B5CF41}|Zad1Ages\\Zad1Ages.csproj|solutionrelative:zad1ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723928CC-8B49-4202-8AE7-A176A67FE112}|Zad2Division\\Zad2Division.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\zad2division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723928CC-8B49-4202-8AE7-A176A67FE112}|Zad2Division\\Zad2Division.csproj|solutionrelative:zad2division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFC491B-3C93-419A-BCA8-A3A0AD40569E}|Zad5Login\\Zad5Login.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\zad5login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFC491B-3C93-419A-BCA8-A3A0AD40569E}|Zad5Login\\Zad5Login.csproj|solutionrelative:zad5login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B31EB2-BB97-4271-9510-3B2BD4FC16E7}|Zad4PrintAndSum\\Zad4PrintAndSum.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\zad4printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B31EB2-BB97-4271-9510-3B2BD4FC16E7}|Zad4PrintAndSum\\Zad4PrintAndSum.csproj|solutionrelative:zad4printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4525B6-864E-4383-A0AC-22E56CBD9BF8}|Zad3Vacation\\Zad3Vacation.csproj|C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\zad3vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4525B6-864E-4383-A0AC-22E56CBD9BF8}|Zad3Vacation\\Zad3Vacation.csproj|solutionrelative:zad3vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad6v2StrongNumberFaktorijel\\Program.cs",
+              "RelativeDocumentMoniker": "Zad6v2StrongNumberFaktorijel\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad6v2StrongNumberFaktorijel\\Program.cs",
+              "RelativeToolTip": "Zad6v2StrongNumberFaktorijel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:30:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad11Orders\\Program.cs",
+              "RelativeDocumentMoniker": "Zad11Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad11Orders\\Program.cs",
+              "RelativeToolTip": "Zad11Orders\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:34:15.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad10RageExpences\\Program.cs",
+              "RelativeDocumentMoniker": "Zad10RageExpences\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad10RageExpences\\Program.cs",
+              "RelativeToolTip": "Zad10RageExpences\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:18:16.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad9PadawanEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "Zad9PadawanEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad9PadawanEquipment\\Program.cs",
+              "RelativeToolTip": "Zad9PadawanEquipment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:59:33.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad8TriangleNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Zad8TriangleNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad8TriangleNumbers\\Program.cs",
+              "RelativeToolTip": "Zad8TriangleNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:49:58.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad7VendingMachine\\Program.cs",
+              "RelativeDocumentMoniker": "Zad7VendingMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad7VendingMachine\\Program.cs",
+              "RelativeToolTip": "Zad7VendingMachine\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:02:52.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad6StrongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "Zad6StrongNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad6StrongNumber\\Program.cs",
+              "RelativeToolTip": "Zad6StrongNumber\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:08:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad5Login\\Program.cs",
+              "RelativeDocumentMoniker": "Zad5Login\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad5Login\\Program.cs",
+              "RelativeToolTip": "Zad5Login\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:34:21.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad4PrintAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "Zad4PrintAndSum\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad4PrintAndSum\\Program.cs",
+              "RelativeToolTip": "Zad4PrintAndSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:27:50.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad3Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "Zad3Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad3Vacation\\Program.cs",
+              "RelativeToolTip": "Zad3Vacation\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:01:49.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad2Division\\Program.cs",
+              "RelativeDocumentMoniker": "Zad2Division\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad2Division\\Program.cs",
+              "RelativeToolTip": "Zad2Division\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:57:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad1Ages\\Program.cs",
+              "RelativeDocumentMoniker": "Zad1Ages\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Zad1Ages\\Program.cs",
+              "RelativeToolTip": "Zad1Ages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:53:47.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Program.cs",
+              "RelativeDocumentMoniker": "Termin3BasicSyntaxConditionalStatements31.05.2024\\Program.cs",
+              "ToolTip": "C:\\Users\\goran\\source\\repos\\SoftUniOsnoveCMaj2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Termin3BasicSyntaxConditionalStatements31.05.2024\\Program.cs",
+              "RelativeToolTip": "Termin3BasicSyntaxConditionalStatements31.05.2024\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwv0gAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:53:09.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

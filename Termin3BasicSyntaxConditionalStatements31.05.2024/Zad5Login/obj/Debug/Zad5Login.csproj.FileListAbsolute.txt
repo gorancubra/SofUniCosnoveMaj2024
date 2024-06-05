@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad5Login\bin\Debug\Zad5Login.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad5Login\bin\Debug\Zad5Login.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad5Login\bin\Debug\Zad5Login.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad5Login\obj\Debug\Zad5Login.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad5Login\obj\Debug\Zad5Login.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad5Login\obj\Debug\Zad5Login.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad5Login\obj\Debug\Zad5Login.pdb

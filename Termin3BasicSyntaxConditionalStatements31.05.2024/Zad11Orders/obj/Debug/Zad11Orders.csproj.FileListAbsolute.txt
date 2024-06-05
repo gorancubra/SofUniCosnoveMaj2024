@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad11Orders\bin\Debug\Zad11Orders.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad11Orders\bin\Debug\Zad11Orders.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad11Orders\bin\Debug\Zad11Orders.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad11Orders\obj\Debug\Zad11Orders.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad11Orders\obj\Debug\Zad11Orders.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad11Orders\obj\Debug\Zad11Orders.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad11Orders\obj\Debug\Zad11Orders.pdb

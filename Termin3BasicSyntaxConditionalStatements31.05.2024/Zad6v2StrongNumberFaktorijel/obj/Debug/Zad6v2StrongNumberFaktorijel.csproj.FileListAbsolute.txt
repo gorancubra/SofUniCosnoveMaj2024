@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad6v2StrongNumberFaktorijel\bin\Debug\Zad6v2StrongNumberFaktorijel.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad6v2StrongNumberFaktorijel\bin\Debug\Zad6v2StrongNumberFaktorijel.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad6v2StrongNumberFaktorijel\bin\Debug\Zad6v2StrongNumberFaktorijel.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad6v2StrongNumberFaktorijel\obj\Debug\Zad6v2StrongNumberFaktorijel.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad6v2StrongNumberFaktorijel\obj\Debug\Zad6v2StrongNumberFaktorijel.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad6v2StrongNumberFaktorijel\obj\Debug\Zad6v2StrongNumberFaktorijel.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin3BasicSyntaxConditionalStatements31.05.2024\Zad6v2StrongNumberFaktorijel\obj\Debug\Zad6v2StrongNumberFaktorijel.pdb

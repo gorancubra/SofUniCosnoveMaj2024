@@ -1,0 +1,7 @@
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad11MultiplicationTable2\bin\Debug\Zad11MultiplicationTable2.exe.config
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad11MultiplicationTable2\bin\Debug\Zad11MultiplicationTable2.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad11MultiplicationTable2\bin\Debug\Zad11MultiplicationTable2.pdb
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad11MultiplicationTable2\obj\Debug\Zad11MultiplicationTable2.csproj.AssemblyReference.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad11MultiplicationTable2\obj\Debug\Zad11MultiplicationTable2.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad11MultiplicationTable2\obj\Debug\Zad11MultiplicationTable2.exe
+C:\Users\goran\source\repos\SoftUniOsnoveCMaj2024\Termin2Ponavljanje2-29-05-24\Zad11MultiplicationTable2\obj\Debug\Zad11MultiplicationTable2.pdb
